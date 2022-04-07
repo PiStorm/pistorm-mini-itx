@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "Conn_TE_1-1734530")(type "Legacy")(uri "${KIPRJMOD}/Conn_TE_1-1734530/eec.lib")(options "")(descr ""))
+  (lib (name "Conn_Wurth_685119134923")(type "Legacy")(uri "${KIPRJMOD}/Conn_Wurth_685119134923/eec.lib")(options "")(descr ""))
+)

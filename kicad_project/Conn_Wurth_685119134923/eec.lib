@@ -1,0 +1,110 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Wurth 685119134923
+#
+DEF 685119134923 J 0 0 Y Y 1 L N
+F0 "J" 0 300 50 H V L CNN 
+F1 "685119134923" 0 400 50 H V L CNN 
+F2 "Wurth-685119134923-*" 0 500 50 H I L CNN 
+F3 "https://www.we-online.com/catalog/datasheet/685119134923.pdf" 0 600 50 H I L CNN 
+F4 "No" 0 700 50 H I L CNN "automotive"
+F5 "Conn" 0 800 50 H I L CNN "category"
+F6 "Gold" 0 900 50 H I L CNN "contact material"
+F7 "0.5A" 0 1000 50 H I L CNN "current rating"
+F8 "Connectors" 0 1100 50 H I L CNN "device class L1"
+F9 "Audio / Video Connectors" 0 1200 50 H I L CNN "device class L2"
+F10 "unset" 0 1300 50 H I L CNN "device class L3"
+F11 "CONN RCPT HDMI 19POS SMD R/A" 0 1400 50 H I L CNN "digikey description"
+F12 "732-2737-1-ND" 0 1500 50 H I L CNN "digikey part number"
+F13 "6.28mm" 0 1600 50 H I L CNN "height"
+F14 "yes" 0 1700 50 H I L CNN "is connector"
+F15 "yes" 0 1800 50 H I L CNN "is female"
+F16 "Yes" 0 1900 50 H I L CNN "lead free"
+F17 "f3b99bed0f3383c8" 0 2000 50 H I L CNN "library id"
+F18 "Wurth" 0 2100 50 H I L CNN "manufacturer"
+F19 "HDMI, Displayport & DVI Connectors Interface Connectors HDMI FML 19POS RA" 0 2200 50 H I L CNN "mouser description"
+F20 "710-685119134923" 0 2300 50 H I L CNN "mouser part number"
+F21 "19" 0 2400 50 H I L CNN "number of contacts"
+F22 "CONN_SMT_HDMI_19POS" 0 2500 50 H I L CNN "package"
+F23 "0.5mm" 0 2600 50 H I L CNN "pitch"
+F24 "Yes" 0 2700 50 H I L CNN "rohs"
+F25 "true" 0 2800 50 H I L CNN "shielding"
+F26 "+85°C" 0 2900 50 H I L CNN "temperature range high"
+F27 "-25°C" 0 3000 50 H I L CNN "temperature range low"
+F28 "40V" 0 3100 50 H I L CNN "voltage rating"
+DRAW
+X 1 1 -100 0 100 L 40 40 1 1 P 
+X 2 2 -100 -200 100 L 40 40 1 1 P 
+X 3 3 -100 -400 100 L 40 40 1 1 P 
+X 4 4 -100 -600 100 L 40 40 1 1 P 
+X 5 5 -100 -800 100 L 40 40 1 1 P 
+X 6 6 -100 -1000 100 L 40 40 1 1 P 
+X 7 7 -100 -1200 100 L 40 40 1 1 P 
+X 8 8 -100 -1400 100 L 40 40 1 1 P 
+X 9 9 -100 -1600 100 L 40 40 1 1 P 
+X 10 10 -100 -1800 100 L 40 40 1 1 P 
+X 11 11 -100 -2000 100 L 40 40 1 1 P 
+X 12 12 -100 -2200 100 L 40 40 1 1 P 
+X 13 13 -100 -2400 100 L 40 40 1 1 P 
+X 14 14 -100 -2600 100 L 40 40 1 1 P 
+X 15 15 -100 -2800 100 L 40 40 1 1 P 
+X 16 16 -100 -3000 100 L 40 40 1 1 P 
+X 17 17 -100 -3200 100 L 40 40 1 1 P 
+X 18 18 -100 -3400 100 L 40 40 1 1 P 
+X 19 19 -100 -3600 100 L 40 40 1 1 P 
+X MNT_1 20 -100 -3900 100 L 40 40 1 1 P 
+X MNT_2 21 -100 -4100 100 L 40 40 1 1 P 
+X MNT_3 22 -100 -4300 100 L 40 40 1 1 P 
+X MNT_4 23 -100 -4500 100 L 40 40 1 1 P 
+S -700 200 -200 -4600 1 1 0 f
+C -450 0 30 1 1 0 N
+P 2 1 1 0 -420 0 -200 0 N
+C -450 -200 30 1 1 0 N
+P 2 1 1 0 -420 -200 -200 -200 N
+C -450 -400 30 1 1 0 N
+P 2 1 1 0 -420 -400 -200 -400 N
+C -450 -600 30 1 1 0 N
+P 2 1 1 0 -420 -600 -200 -600 N
+C -450 -800 30 1 1 0 N
+P 2 1 1 0 -420 -800 -200 -800 N
+C -450 -1000 30 1 1 0 N
+P 2 1 1 0 -420 -1000 -200 -1000 N
+C -450 -1200 30 1 1 0 N
+P 2 1 1 0 -420 -1200 -200 -1200 N
+C -450 -1400 30 1 1 0 N
+P 2 1 1 0 -420 -1400 -200 -1400 N
+C -450 -1600 30 1 1 0 N
+P 2 1 1 0 -420 -1600 -200 -1600 N
+C -450 -1800 30 1 1 0 N
+P 2 1 1 0 -420 -1800 -200 -1800 N
+C -450 -2000 30 1 1 0 N
+P 2 1 1 0 -420 -2000 -200 -2000 N
+C -450 -2200 30 1 1 0 N
+P 2 1 1 0 -420 -2200 -200 -2200 N
+C -450 -2400 30 1 1 0 N
+P 2 1 1 0 -420 -2400 -200 -2400 N
+C -450 -2600 30 1 1 0 N
+P 2 1 1 0 -420 -2600 -200 -2600 N
+C -450 -2800 30 1 1 0 N
+P 2 1 1 0 -420 -2800 -200 -2800 N
+C -450 -3000 30 1 1 0 N
+P 2 1 1 0 -420 -3000 -200 -3000 N
+C -450 -3200 30 1 1 0 N
+P 2 1 1 0 -420 -3200 -200 -3200 N
+C -450 -3400 30 1 1 0 N
+P 2 1 1 0 -420 -3400 -200 -3400 N
+C -450 -3600 30 1 1 0 N
+P 2 1 1 0 -420 -3600 -200 -3600 N
+C -450 -3900 30 1 1 0 N
+P 2 1 1 0 -420 -3900 -200 -3900 N
+C -450 -4100 30 1 1 0 N
+P 2 1 1 0 -420 -4100 -200 -4100 N
+C -450 -4300 30 1 1 0 N
+P 2 1 1 0 -420 -4300 -200 -4300 N
+C -450 -4500 30 1 1 0 N
+P 2 1 1 0 -420 -4500 -200 -4500 N
+ENDDRAW
+ENDDEF
+#
+# End Library
