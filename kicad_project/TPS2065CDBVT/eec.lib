@@ -1,0 +1,47 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Texas Instruments TPS2065CDBVT
+#
+DEF TPS2065CDBVT U 0 40 Y Y 1 L N
+F0 "U" 0 200 50 H V L CNN 
+F1 "TPS2065CDBVT" 0 300 50 H V L CNN 
+F2 "Texas_Instruments-DBV0005A-0-0-*" 0 400 50 H I L CNN 
+F3 "https://www.ti.com/lit/gpn/tps2065c" 0 500 50 H I L CNN 
+F4 "+85°C" 0 600 50 H I L CNN "ambient temperature range high"
+F5 "-40°C" 0 700 50 H I L CNN "ambient temperature range low"
+F6 "No" 0 800 50 H I L CNN "automotive"
+F7 "IC" 0 900 50 H I L CNN "category"
+F8 "Integrated Circuits (ICs)" 0 1000 50 H I L CNN "device class L1"
+F9 "Power Management ICs" 0 1100 50 H I L CNN "device class L2"
+F10 "unset" 0 1200 50 H I L CNN "device class L3"
+F11 "IC PWR SWITCH N-CHAN 1:1 SOT23-5" 0 1300 50 H I L CNN "digikey description"
+F12 "296-29545-1-ND" 0 1400 50 H I L CNN "digikey part number"
+F13 "1.45mm" 0 1500 50 H I L CNN "height"
+F14 "Yes" 0 1600 50 H I L CNN "lead free"
+F15 "1f5f31ff2b541d2f" 0 1700 50 H I L CNN "library id"
+F16 "Texas Instruments" 0 1800 50 H I L CNN "manufacturer"
+F17 "+125°C" 0 1900 50 H I L CNN "max junction temp"
+F18 "5.5V" 0 2000 50 H I L CNN "max supply voltage"
+F19 "4.5V" 0 2100 50 H I L CNN "min supply voltage"
+F20 "Power Switch ICs - Power Distribution SGL CHANNEL,CRNT-LTD USB PWR DIST SWITCH" 0 2200 50 H I L CNN "mouser description"
+F21 "595-TPS2065CDBVT" 0 2300 50 H I L CNN "mouser part number"
+F22 "0.01-60uA" 0 2400 50 H I L CNN "nominal supply current"
+F23 "1" 0 2500 50 H I L CNN "number of outputs"
+F24 "1A" 0 2600 50 H I L CNN "output current"
+F25 "SOT23-5" 0 2700 50 H I L CNN "package"
+F26 "Yes" 0 2800 50 H I L CNN "rohs"
+F27 "0mm" 0 2900 50 H I L CNN "standoff height"
+F28 "+85°C" 0 3000 50 H I L CNN "temperature range high"
+F29 "-40°C" 0 3100 50 H I L CNN "temperature range low"
+DRAW
+X ~FLT~ 3 100 -200 100 R 40 40 1 1 C 
+X EN/~EN~ 4 100 -400 100 R 40 40 1 1 I 
+X IN 5 100 0 100 R 40 40 1 1 W 
+X OUT 1 1300 0 100 L 40 40 1 1 W 
+X GND 2 1300 -400 100 L 40 40 1 1 W 
+S 200 100 1200 -500 1 1 0 f
+ENDDRAW
+ENDDEF
+#
+# End Library
